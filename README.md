@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A student of "School 21"(Sber)</h3>
+<h3 align="center">A student of "School 21" (Russian analogue of Ecole 42)</h3>
 
-- 🔭 I’m currently working on [advanced calculator](https://github.com/trubyroid/advanced-calculator)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-- 🌱 I’m currently learning **Python**
+<!-- - 🔭 I’m currently working on [advanced calculator](https://github.com/trubyroid/advanced-calculator)
+
+- 🌱 I’m currently learning **Python** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
