@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Nice to see you on my page!</h1>
+<h1 align="center">Hi! Nice to see you on my page ^_^</h1>
 <!-- <h3 align="center">Make yourself comfortable and look to my projects</h3> -->
 
 <h3 align="center">Languages and Tools:</h3>
