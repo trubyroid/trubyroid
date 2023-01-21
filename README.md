@@ -10,3 +10,4 @@
 <a href="https://instagram.com/akrestyaninov" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white" alt="akrestyaninov" height="40" width="120" /></a>
 </p>
 
+<h3 align="center">Would love to read your feedback!</h3>
