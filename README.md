@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A student of "School 21" - Russian analogue of Ecole 42</h3>
+<h1 align="center">Nice to see you on my page👋</h1>
+<h3 align="center">I'm a student of "School 21" - Russian analogue of Ecole 42</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="500"/>
