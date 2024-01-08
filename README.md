@@ -6,7 +6,7 @@
 |       [db_admin](https://github.com/trubyroid/db_admin)       | Web-interface for postgreSQL database                                                    | flask, psycopg2, loguru             |    Finished |
 |   [desktop_calc](https://github.com/trubyroid/desktop_calc)   | Engineer GUI-calculator with Polish Notations, history and possibility to build graphics | tkinter, matplotlib, simpleeval, py2app, pytest |    Finished |
 |   [diabetes_bot](https://github.com/trubyroid/diabetes_bot)   | Hakaton experience, my first telegram-bot                                                       | telebot, logging                    |    Finished |
-| [replicant-test](https://github.com/trubyroid/replicant-test) | Small person test inspired by "Blade Runner"                                             | Pytest, Sphinx                                    |Finished             |
+| [replicant-test](https://github.com/trubyroid/replicant-test) | A small personality test, inspired by "Blade Runner"                                             | Pytest, Sphinx                                    |Finished             |
 
 
 ## C/C++
