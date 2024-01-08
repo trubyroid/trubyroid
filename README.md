@@ -3,7 +3,7 @@
 ## Python
 |                            Project                            | Description                                                                              | Tech                                |      Finished |
 |:-------------------------------------------------------------:|:---------------------------------------------------------------------------------------- |:----------------------------------- | -----------:|
-|       [db_admin](https://github.com/trubyroid/db_admin)       | Web-interface for postgreSQL database, created with [@vrivka](https://github.com/vrivka/)                                                    | flask, psycopg2, loguru             |    December 2023 |
+|       [db_admin](https://github.com/trubyroid/db_admin)       | Web-interface for postgreSQL database                                                    | flask, psycopg2, loguru             |    December 2023 |
 |   [desktop_calc](https://github.com/trubyroid/desktop_calc)   | Engineer GUI-calculator with Polish Notations, history and possibility to build graphics | tkinter, matplotlib, py2app, pytest |    December 2023 |
 |   [diabetes_bot](https://github.com/trubyroid/diabetes_bot)   | Hakaton experience, my first telegram-bot                                                       | telebot, logging                    |    September 2023 |
 | [replicant-test](https://github.com/trubyroid/replicant-test) | A small personality test, inspired by "Blade Runner"                                             | pytest, sphinx                                    |July 2023             |
@@ -15,7 +15,7 @@
 | [cpp_containers](https://github.com/trubyroid/cpp_containers) | Reimplemented vector and map                                                   | -                       | February 2023 |
 | [cpp_modules](https://github.com/trubyroid/cpp_modules)       | Set of tasks about object-oriented programming                                 | -                       | December 2021 |
 | [philosophers](https://github.com/trubyroid/philosophers)     | Project for studying multithreading (+ there is a Python short version inside)     | - | September 2021 |
-| [minishell](https://github.com/trubyroid/minishell)           | Our own simple shell, team work with [@rtoast](https://github.com/rtoast/)                                                            | -             |  July 2021 |
+| [minishell](https://github.com/trubyroid/minishell)           | Our own Bash                                                         | -             |  July 2021 |
 | [cub3D](https://github.com/trubyroid/cub3D)                   | A graphical project based on raycasting technology, inspired by Wolfenstein 3D | minilib                        | April 2021 |
 
 
