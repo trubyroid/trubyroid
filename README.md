@@ -14,7 +14,7 @@
 |:------------------------------------------------------------- |:------------------------------------------------------------------------------ |:------------------------------ |:-------- |
 | [cpp_containers](https://github.com/trubyroid/cpp_containers) | Reimplemented vector and map                                                   | -                       | February 2023 |
 | [cpp_modules](https://github.com/trubyroid/cpp_modules)       | Set of tasks about object-oriented programming                                 | -                       | December 2021 |
-| [philosophers](https://github.com/trubyroid/philosophers)     | Project for studying multithreading (+ there is a Python short version inside)     | - | September 2021 |
+| [philosophers](https://github.com/trubyroid/philosophers)     | Project for studying multithreading (+ there's Python short version inside)     | - | September 2021 |
 | [minishell](https://github.com/trubyroid/minishell)           | Our own Bash                                                         | -             |  July 2021 |
 | [cub3D](https://github.com/trubyroid/cub3D)                   | A graphical project based on raycasting technology, inspired by Wolfenstein 3D | minilib                        | April 2021 |
 
