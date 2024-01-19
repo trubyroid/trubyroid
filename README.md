@@ -3,7 +3,7 @@
 ## Python
 |                            Project                            | Description                                                                              | Tech                                |      Finished |
 |:-------------------------------------------------------------:|:---------------------------------------------------------------------------------------- |:----------------------------------- | -----------:|
-|       [db_admin](https://github.com/trubyroid/db_admin)       | Web-interface for postgreSQL database                                                    | flask, psycopg2, loguru             |    December 2023 |
+|       [db_admin](https://github.com/trubyroid/db_admin)       | Web-interface for postgreSQL database                                                    | flask, psycopg2, loguru, postgreSQL             |    December 2023 |
 |   [desktop_calc](https://github.com/trubyroid/desktop_calc)   | Engineer GUI-calculator with Polish Notations, history and possibility to build graphics | tkinter, matplotlib, py2app, pytest |    December 2023 |
 |   [diabetes_bot](https://github.com/trubyroid/diabetes_bot)   | Hakaton experience, my first telegram-bot                                                       | telebot, logging                    |    September 2023 |
 | [replicant-test](https://github.com/trubyroid/replicant-test) | A small personality test, inspired by "Blade Runner"                                             | pytest, sphinx                                    |July 2023             |
